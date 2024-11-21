@@ -1,0 +1,7 @@
+{
+  "name": "browser-testing",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
